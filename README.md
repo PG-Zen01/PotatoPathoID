@@ -46,4 +46,7 @@ The model achieved a remarkable 98.83% test accuracy in classifying potato leave
 - Impressive Model Accuracy: Demonstrates deep learning's effectiveness in disease classification.
 - User-Friendly Implementation: Empowers farmers and experts for on-the-spot diagnosis.
 
+## Team/Group
+- Pankaj Kumar Giri(DL and backend), Krishna Dubey(Backend)
+
 ---
